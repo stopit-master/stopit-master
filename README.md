@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=stopit-master&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=stopit-master&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=stopit-master&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <p align="center">
   <img src="./assets/moon-breathing.gif" width="100%" alt="Animated moon-breathing hero" />
