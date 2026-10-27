@@ -15,3 +15,10 @@
 <p align="center">
   <img src="./assets/moon-breathing.gif" width="100%" alt="Animated moon-breathing hero" />
 </p>
+
+## 🐍 My GitHub Contributions
+
+![GitHub Snake Light](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake.svg#gh-light-mode-only)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake-dark.svg#gh-dark-mode-only)
+
