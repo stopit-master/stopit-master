@@ -1,107 +1,128 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · STOPIT-MASTER</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1A,50:123D3A,100:172554&height=190&section=header&text=TARUN&fontSize=58&fontColor=E6FFFA&fontAlignY=38&desc=BUILDING%20WITH%20CODE%20%E2%80%A2%20LEARNING%20IN%20PUBLIC&descSize=13&descAlignY=60" width="100%" alt="Tarun — building with code, learning in public" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&mode=dark" width="100%" alt="tarun cinematic profile scene" />
-</picture>
+<p>
+  <a href="https://github.com/stopit-master"><img src="https://img.shields.io/badge/GitHub-stopit--master-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/tarun-singh-42b725423/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/stopit.biro/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:kenxeren@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="tarun animated ASCII name" />
-</picture>
+B.Tech CSE student · AI/software builder · learning by shipping
 
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
+I build practical software, experiment with AI, and turn ideas into working products.
 
-<p><a href="https://github.com/stopit-master">GitHub</a></p>
 </div>
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+01 / About
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Building useful things and sharing the work in public.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>4</strong> repos<br /><strong>52</strong> contributions<br /><strong>4</strong> followers</p></td>
-</tr>
-</table>
+Currently building: AI agents, workflow automations, and software projects that solve practical problems.
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+Interested in: AI products, SaaS, developer tools, automation, and applied machine learning.
 
-<h2>In the current cut</h2>
+Learning: Python, LLMs, APIs, agentic systems, databases, and product development.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CPython%3A%3AIn%20the%20active%20build%20queue%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CPython%3A%3AIn%20the%20active%20build%20queue%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="tarun cinematic highlights" />
-</picture>
+Open to: Hackathons, useful open-source contributions, and collaborations with people who build.
 
-<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
+Long-term direction: Build technology products that create measurable value.
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+I prefer shipping a working version, getting feedback, and improving it over endlessly planning.
 
-<h2>Production palette</h2>
+02 / Current focus
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-stack-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="tarun animated technology stack" />
-</picture>
+This is a self-reported learning-focus split, not an automatically measured GitHub language breakdown.
 
-<p align="center"><sub>TypeScript · Python · Jupyter Notebook · CSS · JavaScript · tools chosen for the work, not the trend</sub></p>
+Area
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+Focus
 
-<h2>Featured reel</h2>
+Python
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&repos=stopit-master%2Fstopit-master%2Cstopit-master%2Fnope%2Cstopit-master%2Fpriv%2Cstopit-master%2Frydexa&v=cinematic-projects-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&repos=stopit-master%2Fstopit-master%2Cstopit-master%2Fnope%2Cstopit-master%2Fpriv%2Cstopit-master%2Frydexa&v=cinematic-projects-2&mode=dark" width="100%" alt="tarun cinematic project reel" />
-</picture>
+70%
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/stopit-master">stopit-master</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 1</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/nope">nope</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/priv">priv</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/rydexa">rydexa</a></strong></p><p>AI-powered bike-sharing demand prediction platform</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+TypeScript
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+15%
 
-<p align="center"><sub>4 public projects · 1 stars · 52 contributions · 4 followers</sub></p>
+C
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+8%
 
-<h2>Contribution trail</h2>
+JavaScript
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="tarun contribution snake" />
-</picture>
+5%
 
-<h2>Play the next move</h2>
+CSS
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="tarun animated chess replay" />
-</picture>
+2%
 
-<p align="center"><sub>─────── ◇ ───────</sub></p>
+03 / Tools & technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+04 / Selected work
+
+Project
+
+What it is
+
+RYDEXA
+
+Bike-sharing demand intelligence platform using machine learning, FastAPI, and a web frontend.
+
+stopit-master
+
+Profile repository, experiments, and GitHub workflow projects.
+
+nope
+
+A project space for ongoing experiments.
+
+priv
+
+Python project and experimentation repository.
+
+05 / GitHub activity
 
 <div align="center">
-<p><sub>THE NEXT SCENE</sub></p>
 
-<h2>Keep the story moving</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=stopit-master&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165" alt="GitHub statistics for stopit-master" />
 
-<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-social-2&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="tarun contact links" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stopit-master&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 
-<p><a href="https://github.com/stopit-master">GitHub</a></p>
+</div>
 
-<p><sub>tarun · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+06 / Contribution trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+<div align="center">
+
+BUILD · LEARN · SHIP · REPEAT
+
+<sub>Open to meaningful collaborations and interesting problems.</sub>
+
 </div>
