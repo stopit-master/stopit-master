@@ -1,4 +1,6 @@
-<div align="center">
+from pathlib import Path
+
+readme = r'''<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A1A,50:123D3A,100:172554&height=190&section=header&text=TARUN&fontSize=58&fontColor=E6FFFA&fontAlignY=38&desc=BUILDING%20WITH%20CODE%20%E2%80%A2%20LEARNING%20IN%20PUBLIC&descSize=13&descAlignY=60" width="100%" alt="Tarun — building with code, learning in public" />
 
@@ -9,55 +11,37 @@
   <a href="mailto:kenxeren@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-B.Tech CSE student · AI/software builder · learning by shipping
+**B.Tech CSE student · AI/software builder · learning by shipping**
 
-I build practical software, experiment with AI, and turn ideas into working products.
+*I build practical software, experiment with AI, and turn ideas into working products.*
 
 </div>
 
-01 / About
+---
 
-Currently building: AI agents, workflow automations, and software projects that solve practical problems.
+## 01 / About
 
-Interested in: AI products, SaaS, developer tools, automation, and applied machine learning.
-
-Learning: Python, LLMs, APIs, agentic systems, databases, and product development.
-
-Open to: Hackathons, useful open-source contributions, and collaborations with people who build.
-
-Long-term direction: Build technology products that create measurable value.
+- **Currently building:** AI agents, workflow automations, and software projects that solve practical problems.
+- **Interested in:** AI products, SaaS, developer tools, automation, and applied machine learning.
+- **Learning:** Python, LLMs, APIs, agentic systems, databases, and product development.
+- **Open to:** Hackathons, useful open-source contributions, and collaborations with people who build.
+- **Long-term direction:** Build technology products that create measurable value.
 
 I prefer shipping a working version, getting feedback, and improving it over endlessly planning.
 
-02 / Current focus
+## 02 / Current focus
 
-This is a self-reported learning-focus split, not an automatically measured GitHub language breakdown.
+This is a **self-reported learning-focus split**, not an automatically measured GitHub language breakdown.
 
-Area
+| Area | Focus |
+|:--|--:|
+| **Python** | **70%** |
+| TypeScript | 15% |
+| C | 8% |
+| JavaScript | 5% |
+| CSS | 2% |
 
-Focus
-
-Python
-
-70%
-
-TypeScript
-
-15%
-
-C
-
-8%
-
-JavaScript
-
-5%
-
-CSS
-
-2%
-
-03 / Tools & technologies
+## 03 / Tools & technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -77,29 +61,16 @@ CSS
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-04 / Selected work
+## 04 / Selected work
 
-Project
+| Project | What it is |
+|:--|:--|
+| [RYDEXA](https://github.com/stopit-master/rydexa) | Bike-sharing demand intelligence platform using machine learning, FastAPI, and a web frontend. |
+| [stopit-master](https://github.com/stopit-master/stopit-master) | Profile repository, experiments, and GitHub workflow projects. |
+| [nope](https://github.com/stopit-master/nope) | A project space for ongoing experiments. |
+| [priv](https://github.com/stopit-master/priv) | Python project and experimentation repository. |
 
-What it is
-
-RYDEXA
-
-Bike-sharing demand intelligence platform using machine learning, FastAPI, and a web frontend.
-
-stopit-master
-
-Profile repository, experiments, and GitHub workflow projects.
-
-nope
-
-A project space for ongoing experiments.
-
-priv
-
-Python project and experimentation repository.
-
-05 / GitHub activity
+## 05 / GitHub activity
 
 <div align="center">
 
@@ -111,7 +82,7 @@ Python project and experimentation repository.
 
 </div>
 
-06 / Contribution trail
+## 06 / Contribution trail
 
 <div align="center">
 
@@ -119,10 +90,30 @@ Python project and experimentation repository.
 
 </div>
 
+---
+
 <div align="center">
 
-BUILD · LEARN · SHIP · REPEAT
+**BUILD · LEARN · SHIP · REPEAT**
 
 <sub>Open to meaningful collaborations and interesting problems.</sub>
 
 </div>
+'''
+
+path = Path("/mnt/data/README-profile-stopit-master.md")
+path.write_text(readme, encoding="utf-8")
+
+# Basic content checks
+checks = {
+    "No GitSkins references": "gitskins.com" not in readme.lower() and "gitskin.com" not in readme.lower(),
+    "No inaccurate frontend/full-stack title": "frontend or full-stack engineer" not in readme.lower(),
+    "Python focus is 70%": "**Python** | **70%**" in readme,
+    "All other focus percentages below 30%": all(x in readme for x in ["TypeScript | 15%", "C | 8%", "JavaScript | 5%", "CSS | 2%"]),
+    "Snake uses your output branch": "output/github-snake-dark.svg" in readme,
+    "Social links retained": all(x in readme for x in ["stopit.biro", "tarun-singh-42b725423", "kenxeren@gmail.com"]),
+    "Project links retained": all(x in readme for x in ["stopit-master/rydexa", "stopit-master/nope", "stopit-master/priv"]),
+}
+print(f"Created: {path}")
+for label, passed in checks.items():
+    print(f"{'PASS' if passed else 'FAIL'} — {label}")
