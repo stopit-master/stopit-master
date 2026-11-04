@@ -1,24 +1,107 @@
-# 💫 About Me:
-🔭 I'm currently working on: AI automation agencies, building AI agents and workflow automations that solve real business problems.<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on: AI agents, automation projects, SaaS ideas, hackathons, and projects that turn AI into useful real-world products.<br><br>🤝 I'm looking for help with: Advanced AI development, building reliable agentic systems, client acquisition, sales, and turning technical projects into businesses.<br><br>🌱 I'm currently learning: AI agents, LLMs, Python, n8n, APIs, automation, web development, and the business side of building AI products.<br><br>💬 Ask me about: AI automation, AI agents, n8n, building projects, AI tools, hackathons, and experimenting with new technology.<br><br>⚡ Fun fact: I'm a first-year CSE student trying to build real businesses with AI instead of waiting until graduation.
+<div align="center">
 
+<p><sub>AN EDITORIAL PROFILE · STOPIT-MASTER</sub></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stopit.biro/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-singh-42b725423/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenxeren@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&mode=dark" width="100%" alt="tarun cinematic profile scene" />
+</picture>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Invision](https://img.shields.io/badge/invision-FF3366?style=plastic&logo=invision&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=stopit-master&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&label=tarun&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="tarun animated ASCII name" />
+</picture>
 
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p>Building useful things and sharing the work in public.</p>
 
+<p><a href="https://github.com/stopit-master">GitHub</a></p>
+</div>
 
-<p align="center">
-  <img src="./assets/moon-breathing.gif" width="100%" alt="Animated moon-breathing hero" />
-</p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-## 🐍 My GitHub Contributions
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Building useful things and sharing the work in public.</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>4</strong> repos<br /><strong>52</strong> contributions<br /><strong>4</strong> followers</p></td>
+</tr>
+</table>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake.svg#gh-light-mode-only)
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake-dark.svg#gh-dark-mode-only)
+<h2>In the current cut</h2>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CPython%3A%3AIn%20the%20active%20build%20queue%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CPython%3A%3AIn%20the%20active%20build%20queue%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="tarun cinematic highlights" />
+</picture>
+
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Production palette</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="tarun animated technology stack" />
+</picture>
+
+<p align="center"><sub>TypeScript · Python · Jupyter Notebook · CSS · JavaScript · tools chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Featured reel</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&repos=stopit-master%2Fstopit-master%2Cstopit-master%2Fnope%2Cstopit-master%2Fpriv%2Cstopit-master%2Frydexa&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&repos=stopit-master%2Fstopit-master%2Cstopit-master%2Fnope%2Cstopit-master%2Fpriv%2Cstopit-master%2Frydexa&v=cinematic-projects-2&mode=dark" width="100%" alt="tarun cinematic project reel" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/stopit-master">stopit-master</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/nope">nope</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/priv">priv</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/stopit-master/rydexa">rydexa</a></strong></p><p>AI-powered bike-sharing demand prediction platform</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<p align="center"><sub>4 public projects · 1 stars · 52 contributions · 4 followers</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="tarun contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="tarun animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<h2>Keep the story moving</h2>
+
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-social-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=stopit-master&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F322365544%3Fu%3De92ab42f3be836199feaefbd94fffeb97b0dcede%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="tarun contact links" />
+</picture>
+
+<p><a href="https://github.com/stopit-master">GitHub</a></p>
+
+<p><sub>tarun · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
