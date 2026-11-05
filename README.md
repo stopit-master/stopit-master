@@ -1,14 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,50:3b82f6,100:14b8a6&text=Tarun%20Singh&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=B.Tech%20CSE%20%C2%B7%20Chandigarh%20University&descSize=20&descAlignY=58&animation=twinkling" alt="Tarun Singh" />
-
-<a href="https://github.com/stopit-master">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=5EEAD4&center=true&vCenter=true&width=800&height=50&lines=Building+a+business;AI+Automation+%C2%B7+AI+Agents+%C2%B7+AI+Agency;Python+%C2%B7+LLMs+%C2%B7+n8n+%C2%B7+Claude+API" alt="Typing animation" />
-</a>
+<img src="hero.svg" width="100%" alt="Tarun Singh - AI automation. A cat typing on a laptop." />
 
 <br />
 
-<a href="https://github.com/stopit-master"><img src="https://img.shields.io/badge/GitHub-stopit--master-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
+<a href="https://github.com/stopit-master"><img src="https://img.shields.io/badge/stopit--master-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=5eead4" alt="Python" />
 <img src="https://img.shields.io/badge/AI%20Automation-0d1117?style=for-the-badge&logo=openai&logoColor=c4b5fd" alt="AI Automation" />
 <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=probot&logoColor=5eead4" alt="AI Agents" />
@@ -16,24 +12,17 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,100:14b8a6" width="100%" alt="" />
+<br />
 
 <div align="center">
 
-## WHO AM I
+## ABOUT
 
 </div>
 
-```yaml
-name: Tarun Singh
-located_in: Punjab, India
-education: B.Tech CSE (Core), Chandigarh University
-building: Axeno - AI automation agency
-focus: [AI automation, AI agents, AI agency]
-currently_learning: [agentic systems, n8n, Claude API]
-```
+I'm Tarun, a B.Tech CSE student at Chandigarh University, based in Punjab, India. I'm **building a business** around AI: automations and agents that take repetitive work off a team's plate.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,100:14b8a6" width="100%" alt="" />
+<br />
 
 <div align="center">
 
@@ -46,9 +35,9 @@ currently_learning: [agentic systems, n8n, Claude API]
 <td width="50%" valign="top">
 
 ### Axeno
-An AI automation agency. The first product is a lead follow-up bot built with **n8n** and the **Claude API**, starting with real estate agents.
+An AI automation agency building automations and AI agents for businesses.
 
-**Stack:** `n8n` `Claude API` `Next.js` `Supabase` `Vercel`
+**Stack:** `n8n` `Claude API`
 
 </td>
 <td width="50%" valign="top">
@@ -66,35 +55,7 @@ An AI-powered bike-sharing demand prediction platform.
 
 <div align="center">
 
-### How the Axeno lead follow-up bot works
-
-</div>
-
-```mermaid
-graph LR
-    A[New lead enquiry] --> B[n8n workflow]
-    B --> C[Claude API]
-    C --> D[Personalized follow-up]
-
-    style A fill:#7c3aed,stroke:#c4b5fd,color:#ffffff
-    style B fill:#3b82f6,stroke:#93c5fd,color:#ffffff
-    style C fill:#0f766e,stroke:#5eead4,color:#ffffff
-    style D fill:#14b8a6,stroke:#99f6e4,color:#0b0f1a
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,100:14b8a6" width="100%" alt="" />
-
-<div align="center">
-
-## TECH STACK
-
-<img src="https://skillicons.dev/icons?i=py,js,nextjs,nodejs,supabase,vercel,git,github,linux,vscode&perline=10" alt="Tech stack icons" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=5eead4" alt="n8n" />
-<img src="https://img.shields.io/badge/Claude%20API-0d1117?style=for-the-badge&logo=anthropic&logoColor=c4b5fd" alt="Claude API" />
-<img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=5eead4" alt="Ollama" />
+<img src="skills.svg" width="100%" alt="Skills: n8n, Claude API, AI agents, LLM apps, Python, JavaScript, Next.js, Supabase, Vercel, Claude Code, Google ADK, Ollama, Agentic AI" />
 
 <br /><br />
 
@@ -107,7 +68,7 @@ graph LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,100:14b8a6" width="100%" alt="" />
+<br />
 
 <div align="center">
 
@@ -117,18 +78,8 @@ graph LR
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake-dark.svg#gh-dark-mode-only)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,100:14b8a6" width="100%" alt="" />
-
-<div align="center">
-
-## CONNECT
-
-<a href="https://github.com/stopit-master"><img src="https://img.shields.io/badge/GitHub-stopit--master-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
-
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:14b8a6,50:3b82f6,100:7c3aed&animation=twinkling" width="100%" alt="" />
+<img src="footer.svg" width="100%" alt="Thanks for visiting - github.com/stopit-master" />
 
 </div>
