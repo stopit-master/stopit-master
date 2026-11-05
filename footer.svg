@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Thanks for visiting - a cat sleeping under the stars">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0b0f1a"/><stop offset="55%" stop-color="#150b30"/><stop offset="100%" stop-color="#062a28"/></linearGradient>
+    <linearGradient id="fname" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ffffff"/><stop offset="60%" stop-color="#c4b5fd"/><stop offset="100%" stop-color="#5eead4"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/><stop offset="50%" stop-color="#3b82f6" stop-opacity="0.45"/><stop offset="100%" stop-color="#14b8a6" stop-opacity="0.55"/></linearGradient>
+    <radialGradient id="moon"><stop offset="0%" stop-color="#e0e7ff" stop-opacity="0.55"/><stop offset="100%" stop-color="#e0e7ff" stop-opacity="0"/></radialGradient>
+    <clipPath id="fcard"><rect width="1000" height="300" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#fcard)">
+    <rect width="1000" height="300" fill="url(#fbg)"/>
+    <circle cx="657" cy="81" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.6s" begin="-3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="881" cy="205" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.3s" begin="-0.1s" repeatCount="indefinite"/></circle>
+    <circle cx="496" cy="214" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="-4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="275" cy="19" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" begin="-1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="958" cy="212" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0s" begin="-4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="652" cy="129" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="-4.9s" repeatCount="indefinite"/></circle>
+    <circle cx="25" cy="69" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.4s" begin="-0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="572" cy="189" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="-4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="727" cy="66" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" begin="-1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="189" cy="53" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="-1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="637" cy="166" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.3s" begin="-3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="383" cy="225" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.9s" begin="-1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="741" cy="61" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="-4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="787" cy="107" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-3.9s" repeatCount="indefinite"/></circle>
+    <circle cx="612" cy="18" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="221" cy="46" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.3s" begin="-4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="276" cy="214" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="-3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="836" cy="110" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-4.7s" repeatCount="indefinite"/></circle>
+    <circle cx="645" cy="108" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.5s" begin="-4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="578" cy="39" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" begin="-1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="837" cy="36" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" begin="-3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="515" cy="57" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-4.9s" repeatCount="indefinite"/></circle>
+    <circle cx="566" cy="119" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" begin="-3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="866" cy="80" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.5s" begin="-0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="958" cy="179" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.9s" begin="-1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="232" cy="49" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" begin="-0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="938" cy="217" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.8s" begin="-2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="172" cy="31" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" begin="-2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="655" cy="59" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.9s" begin="-2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="767" cy="97" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="-2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="943" cy="53" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.6s" begin="-4.9s" repeatCount="indefinite"/></circle>
+    <circle cx="979" cy="143" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0s" begin="-2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="547" cy="216" r="1.6" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.1s" begin="-1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="824" cy="219" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" begin="-3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="797" cy="94" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" begin="-3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="890" cy="64" r="70" fill="url(#moon)"><animate attributeName="r" values="64;78;64" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="890" cy="64" r="26" fill="#e0e7ff"/>
+    <circle cx="900" cy="58" r="26" fill="#150b30"/>
+
+    <text x="70" y="124" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="url(#fname)" textLength="420" lengthAdjust="spacingAndGlyphs">Thanks for visiting</text>
+    <rect x="70" y="140" height="3" rx="1.5" fill="url(#fname)" width="110"/>
+    <text x="70" y="178" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="17" fill="#5eead4">github.com/stopit-master</text>
+
+    <!-- wave -->
+    <path d="M0 262 C 160 238, 320 286, 500 262 S 840 240, 1000 262 L1000 300 L0 300Z" fill="url(#wave)">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+        values="M0 262 C 160 238, 320 286, 500 262 S 840 240, 1000 262 L1000 300 L0 300Z;M0 262 C 160 286, 320 238, 500 262 S 840 284, 1000 262 L1000 300 L0 300Z;M0 262 C 160 238, 320 286, 500 262 S 840 240, 1000 262 L1000 300 L0 300Z"/>
+    </path>
+
+    <!-- cushion -->
+    <rect x="590" y="262" width="300" height="24" rx="12" fill="#312e81"/>
+    <rect x="590" y="262" width="300" height="4" rx="2" fill="#4f46e5" opacity="0.6"/>
+
+    <!-- sleeping cat -->
+    <path d="M818 240C860 262 760 282 640 268" fill="none" stroke="#f6a04d" stroke-width="16" stroke-linecap="round"/>
+    <path d="M818 240C860 262 760 282 640 268" fill="none" stroke="#c2610c" stroke-width="16" stroke-dasharray="7 23" stroke-dashoffset="-6" opacity="0.7"/>
+    <ellipse cx="735" cy="222" rx="100" ry="46" fill="#f6a04d">
+      <animate attributeName="ry" values="46;50;46" dur="3.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <animate attributeName="cy" values="222;219;222" dur="3.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </ellipse>
+    <path d="M720 190v14M745 186v16M770 190v14" stroke="#c2610c" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+    <ellipse cx="655" cy="252" rx="22" ry="11" fill="#f6a04d"/>
+    <path d="M647 248v7M655 246v9M663 248v7" stroke="#c2610c" stroke-width="2" stroke-linecap="round"/>
+    <path d="M626 188L620 150Q640 154 656 172Z" fill="#f6a04d"/>
+    <path d="M632 182L630 162Q641 165 650 175Z" fill="#f9a8c4"/>
+    <path d="M684 188L692 150Q668 154 652 172Z" fill="#f6a04d"/>
+    <path d="M678 182L681 162Q668 165 658 175Z" fill="#f9a8c4"/>
+    <circle cx="655" cy="212" r="38" fill="#f6a04d"/>
+    <ellipse cx="655" cy="226" rx="17" ry="11" fill="#fde7c8"/>
+    <path d="M636 210q7 7 14 0M660 210q7 7 14 0" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+    <path d="M650 220h10l-5 6z" fill="#f472b6"/>
+    <path d="M655 226v3M655 229q-3 4 -7 1M655 229q3 4 7 1" stroke="#9a3412" stroke-width="1.6" stroke-linecap="round" fill="none"/>
+    <text x="655" y="170" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#c4b5fd" opacity="0">z
+      <animate attributeName="y" values="170;110" dur="4s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="655;690" dur="4s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="655" y="170" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#c4b5fd" opacity="0">z
+      <animate attributeName="y" values="170;110" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="655;690" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="1.3s" repeatCount="indefinite"/>
+    </text>
+    <text x="655" y="170" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#c4b5fd" opacity="0">z
+      <animate attributeName="y" values="170;110" dur="4s" begin="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="655;690" dur="4s" begin="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="2.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="25" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1.5"/>
+</svg>

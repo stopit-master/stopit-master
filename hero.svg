@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Tarun Singh - AI automation. An orange cat typing on a laptop.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0b0f1a"/><stop offset="55%" stop-color="#150b30"/><stop offset="100%" stop-color="#062a28"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ffffff"/><stop offset="55%" stop-color="#c4b5fd"/><stop offset="100%" stop-color="#5eead4"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#14b8a6"/></linearGradient>
+    <linearGradient id="lid" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3b4a63"/><stop offset="100%" stop-color="#1e293b"/></linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.7"/><stop offset="100%" stop-color="#14b8a6" stop-opacity="0.7"/></linearGradient>
+    <radialGradient id="o1"><stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0%" stop-color="#14b8a6" stop-opacity="0.45"/><stop offset="100%" stop-color="#14b8a6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o3"><stop offset="0%" stop-color="#2563eb" stop-opacity="0.4"/><stop offset="100%" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+    <clipPath id="card"><rect width="1000" height="440" rx="26"/></clipPath>
+    <clipPath id="tc0"><rect x="94" y="284" height="40" width="0"><animate attributeName="width" values="0;264.0;264.0;0;0" keyTimes="0.0000;0.1067;0.3233;0.3333;1.0000" dur="15.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="tc1"><rect x="94" y="284" height="40" width="0"><animate attributeName="width" values="0;0;488.4;488.4;0;0" keyTimes="0.0000;0.3333;0.4400;0.6567;0.6667;1.0000" dur="15.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="tc2"><rect x="94" y="284" height="40" width="0"><animate attributeName="width" values="0;0;422.4;422.4;0" keyTimes="0.0000;0.6667;0.7733;0.9920;1.0000" dur="15.0s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="440" fill="url(#bg)"/>
+
+    <circle cx="150" cy="110" r="260" fill="url(#o1)">
+      <animate attributeName="cx" values="150;260;150" dur="16s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+    <circle cx="850" cy="380" r="280" fill="url(#o2)">
+      <animate attributeName="cx" values="850;760;850" dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+    <circle cx="520" cy="440" r="220" fill="url(#o3)">
+      <animate attributeName="cx" values="520;640;520" dur="20s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    </circle>
+
+    <circle cx="901" cy="262" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.0s" begin="-2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="652" cy="119" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="-0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="673" cy="45" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.4s" begin="-3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="654" cy="356" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="-4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="88" cy="54" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.1s" begin="-1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="679" cy="174" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.5s" begin="-0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="694" cy="166" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.5s" begin="-5.0s" repeatCount="indefinite"/></circle>
+    <circle cx="884" cy="66" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.4s" begin="-1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="319" cy="39" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" begin="-0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="419" cy="58" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.0s" begin="-0.0s" repeatCount="indefinite"/></circle>
+    <circle cx="238" cy="50" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.6s" begin="-3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="453" cy="61" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.8s" begin="-1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="364" cy="31" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.8s" begin="-0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="127" cy="29" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.9s" begin="-2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="722" cy="310" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="-1.0s" repeatCount="indefinite"/></circle>
+    <circle cx="773" cy="91" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" begin="-0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="24" cy="162" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.5s" begin="-0.1s" repeatCount="indefinite"/></circle>
+    <circle cx="898" cy="332" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="33" cy="336" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.0s" begin="-1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="100" cy="70" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" begin="-1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="488" cy="89" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.0s" begin="-0.7s" repeatCount="indefinite"/></circle>
+    <circle cx="666" cy="102" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.2s" begin="-4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="781" cy="346" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.6s" begin="-1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="72" cy="77" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="268" cy="402" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="-4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="94" cy="88" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.9s" begin="-3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="654" cy="338" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.3s" begin="-4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="232" cy="407" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="-2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="279" cy="54" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0s" begin="-1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="774" cy="377" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.3s" begin="-4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="741" cy="183" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" begin="-3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="517" cy="58" r="1.5" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.5s" begin="-5.0s" repeatCount="indefinite"/></circle>
+    <circle cx="778" cy="46" r="1.2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.9s" begin="-4.6s" repeatCount="indefinite"/></circle>
+    <circle cx="384" cy="67" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.2s" begin="-4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="451" cy="39" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.2s" begin="-3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="30" r="1" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="-3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="769" cy="193" r="2" fill="#fff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.3s" begin="-3.5s" repeatCount="indefinite"/></circle>
+
+    <!-- floating code glyphs -->
+    <text x="672" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" font-weight="700" fill="#5eead4" text-anchor="middle" opacity="0">&lt;/&gt;
+      <animate attributeName="y" values="300;110" dur="6s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="0.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="905" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="24" font-weight="700" fill="#c4b5fd" text-anchor="middle" opacity="0">{ }
+      <animate attributeName="y" values="300;110" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="690" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" font-weight="700" fill="#93c5fd" text-anchor="middle" opacity="0">AI
+      <animate attributeName="y" values="300;110" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="925" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="20" font-weight="700" fill="#5eead4" text-anchor="middle" opacity="0">01
+      <animate attributeName="y" values="300;110" dur="6s" begin="3.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="3.3s" repeatCount="indefinite"/>
+    </text>
+    <text x="662" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="20" font-weight="700" fill="#c4b5fd" text-anchor="middle" opacity="0">py
+      <animate attributeName="y" values="300;110" dur="6s" begin="4.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="4.4s" repeatCount="indefinite"/>
+    </text>
+    <text x="888" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" font-weight="700" fill="#93c5fd" text-anchor="middle" opacity="0">=&gt;
+      <animate attributeName="y" values="300;110" dur="6s" begin="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="5.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="930" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="18" font-weight="700" fill="#c4b5fd" text-anchor="middle" opacity="0">n8n
+      <animate attributeName="y" values="300;110" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="0.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="705" y="300" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" font-weight="700" fill="#5eead4" text-anchor="middle" opacity="0">#
+      <animate attributeName="y" values="300;110" dur="6s" begin="3.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.15;0.7;1" dur="6s" begin="3.9s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- ===== LEFT: text ===== -->
+    <text x="70" y="120" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="5" fill="#5eead4">@STOPIT-MASTER</text>
+    <text x="70" y="196" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="url(#name)" textLength="440" lengthAdjust="spacingAndGlyphs">Tarun Singh</text>
+    <rect x="70" y="212" height="3" rx="1.5" fill="url(#line)" width="0">
+      <animate attributeName="width" values="0;130" dur="1.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1"/>
+    </rect>
+    <text x="70" y="250" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" fill="#cbd5e1">B.Tech CSE · Chandigarh University</text>
+
+    <text x="70" y="312" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" font-weight="700" fill="#8b5cf6">&gt;</text>
+    <text x="94" y="312" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" fill="#f1f5f9" textLength="264.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#tc0)">Building a business.</text>
+    <rect y="292" width="3" height="26" rx="1.5" fill="#5eead4" x="94">
+      <animate attributeName="x" values="94;358.0;358.0;94;94" keyTimes="0.0000;0.1067;0.3233;0.3333;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="3;3;3;0;0" keyTimes="0.0000;0.1067;0.3233;0.3333;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="94" y="312" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" fill="#f1f5f9" textLength="488.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#tc1)">AI automation · AI agents · AI agency</text>
+    <rect y="292" width="3" height="26" rx="1.5" fill="#5eead4" x="94">
+      <animate attributeName="x" values="94;94;582.4;582.4;94;94" keyTimes="0.0000;0.3333;0.4400;0.6567;0.6667;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;0;3;3;0;0" keyTimes="0.0000;0.3333;0.4400;0.6567;0.6667;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="94" y="312" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="22" fill="#f1f5f9" textLength="422.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#tc2)">Python · LLMs · n8n · Claude API</text>
+    <rect y="292" width="3" height="26" rx="1.5" fill="#5eead4" x="94">
+      <animate attributeName="x" values="94;94;516.4;516.4;94" keyTimes="0.0000;0.6667;0.7733;0.9920;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;0;3;3;0" keyTimes="0.0000;0.6667;0.7733;0.9920;1.0000" dur="15.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+
+    <circle cx="78" cy="372" r="5" fill="#34d399"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="78" cy="372" r="5" fill="none" stroke="#34d399"><animate attributeName="r" values="5;13" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="98" y="377" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8">Currently building Axeno · AI automation agency</text>
+
+    <!-- ===== RIGHT: cat at the laptop ===== -->
+    <!-- desk -->
+    <rect x="560" y="421" width="420" height="8" rx="4" fill="#1e293b"/>
+    <rect x="560" y="421" width="420" height="2" rx="1" fill="#475569" opacity="0.6"/>
+
+    <!-- tail (behind laptop) -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-4 890 360;6 890 360;-4 890 360" dur="3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <path d="M890 362C940 364 962 322 952 274C946 248 954 230 968 218" fill="none" stroke="#f6a04d" stroke-width="16" stroke-linecap="round"/>
+      <path d="M890 362C940 364 962 322 952 274C946 248 954 230 968 218" fill="none" stroke="#c2610c" stroke-width="16" stroke-dasharray="7 23" stroke-dashoffset="-12" opacity="0.7"/>
+    </g>
+
+    <!-- body -->
+    <ellipse cx="790" cy="322" rx="92" ry="64" fill="#f6a04d"/>
+
+    <!-- arms (behind head) -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0" dur="0.6s" begin="0s" repeatCount="indefinite"/>
+        <rect x="736" y="258" width="22" height="46" rx="11" fill="#f6a04d"/>
+      </g>
+    <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0" dur="0.6s" begin="0.3s" repeatCount="indefinite"/>
+        <rect x="822" y="258" width="22" height="46" rx="11" fill="#f6a04d"/>
+      </g>
+
+    <!-- ears -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 740 185;0 740 185;-8 740 185;0 740 185;0 740 185" keyTimes="0;0.84;0.9;0.95;1" dur="5s" repeatCount="indefinite"/>
+      <path d="M724 192L716 130Q746 138 770 168Z" fill="#f6a04d"/>
+      <path d="M731 182L728 150Q746 156 759 172Z" fill="#f9a8c4"/>
+    </g>
+    <g>
+      <path d="M856 192L864 130Q834 138 810 168Z" fill="#f6a04d"/>
+      <path d="M849 182L852 150Q834 156 821 172Z" fill="#f9a8c4"/>
+    </g>
+
+    <!-- head (bobs while typing) -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 2.5;0 0" dur="0.6s" repeatCount="indefinite"/>
+      <ellipse cx="790" cy="222" rx="76" ry="63" fill="#f6a04d"/>
+      <path d="M790 163v15M771 167l3 13M809 167l-3 13" stroke="#c2610c" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+      <ellipse cx="790" cy="248" rx="27" ry="17" fill="#fde7c8"/>
+      <circle cx="741" cy="248" r="8" fill="#fb7185" opacity="0.35"/>
+      <circle cx="839" cy="248" r="8" fill="#fb7185" opacity="0.35"/>
+      <g transform="translate(760 222)"><g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 0.08;1 1;1 1" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+        <ellipse rx="10.5" ry="12.5" fill="#34d399"/>
+        <ellipse cy="2" rx="5.5" ry="10" fill="#0f172a"/>
+        <circle cx="3" cy="-3" r="3.2" fill="#fff"/>
+      </g></g>
+      <g transform="translate(820 222)"><g>
+        <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1 0.08;1 1;1 1" keyTimes="0;0.9;0.94;0.98;1" dur="4.5s" repeatCount="indefinite"/>
+        <ellipse rx="10.5" ry="12.5" fill="#34d399"/>
+        <ellipse cy="2" rx="5.5" ry="10" fill="#0f172a"/>
+        <circle cx="3" cy="-3" r="3.2" fill="#fff"/>
+      </g></g>
+      <path d="M783 239h14l-7 8z" fill="#f472b6"/>
+      <path d="M790 247v4M790 251q-5 6 -11 2M790 251q5 6 11 2" stroke="#9a3412" stroke-width="2" stroke-linecap="round" fill="none"/>
+      <path d="M752 245L706 238M752 252L704 258M828 245L874 238M828 252L876 258" stroke="#fff" stroke-width="1.6" stroke-linecap="round" opacity="0.75"/>
+    </g>
+
+    <!-- laptop (back of lid faces us) -->
+    <rect x="672" y="300" width="236" height="112" rx="10" fill="url(#lid)" stroke="#475569" stroke-opacity="0.7"/>
+    <rect x="652" y="412" width="276" height="9" rx="4.5" fill="#334155"/>
+    <text x="790" y="368" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,'Courier New',monospace" font-size="30" font-weight="700" fill="#5eead4">&lt;/&gt;
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- paws tapping the lid -->
+    <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0" dur="0.6s" begin="0s" repeatCount="indefinite"/>
+        <ellipse cx="747" cy="300" rx="19" ry="13" fill="#f6a04d"/>
+        <path d="M741 296v6M747 294v8M753 296v6" stroke="#c2610c" stroke-width="2" stroke-linecap="round" fill="none"/>
+      </g>
+    <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 9;0 0" dur="0.6s" begin="0.3s" repeatCount="indefinite"/>
+        <ellipse cx="833" cy="300" rx="19" ry="13" fill="#f6a04d"/>
+        <path d="M827 296v6M833 294v8M839 296v6" stroke="#c2610c" stroke-width="2" stroke-linecap="round" fill="none"/>
+      </g>
+
+    <!-- mug -->
+    <rect x="578" y="389" width="34" height="32" rx="7" fill="#7c3aed"/>
+    <ellipse cx="595" cy="389" rx="17" ry="4" fill="#4c1d95"/>
+    <path d="M612 397q14 0 14 10q0 10 -14 10" fill="none" stroke="#7c3aed" stroke-width="5"/>
+    <path d="M588 380q-6 -9 0 -17q6 -8 0 -16" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0.5;0" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M601 380q-6 -9 0 -17q6 -8 0 -16" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0">
+      <animate attributeName="opacity" values="0;0.5;0" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <rect x="1" y="1" width="998" height="438" rx="25" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+</svg>
