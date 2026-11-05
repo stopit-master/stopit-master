@@ -16,11 +16,34 @@
 
 <div align="center">
 
-## ABOUT
+## ABOUT📚
 
 </div>
 
-I'm Tarun, a B.Tech CSE student at Chandigarh University, based in Punjab, India. I'm **building a business** around AI: automations and agents that take repetitive work off a team's plate.
+# 👋 Hey, I'm Tarun!
+
+💻 **Curious Mind | Creative Builder | Tech Explorer**
+
+I love turning ideas into things that actually work. I'm passionate about exploring technology, experimenting with new tools, and building projects that make everyday life a little smarter. 🚀
+
+### 🌟 A Little About Me
+
+* 🤖 Exploring the fascinating world of Artificial Intelligence.
+* ⚡ Building with Python, automation, and modern technologies.
+* 🧠 Always curious about how things work and how they can be improved.
+* 🛠️ Love experimenting with tools, APIs, and creative projects.
+* 🌍 Believe in learning by building, breaking, and rebuilding.
+
+### 🎯 Currently Exploring
+
+AI • Automation • Software Development • Open Source Tools • Emerging Technologies
+
+### ☕ Outside the Code
+
+Probably exploring  new things, listening to music, or figuring out how to make life better. 😄
+
+**Let's connect, collaborate, and build something interesting!** 🌱
+
 
 <br />
 
@@ -34,7 +57,7 @@ I'm Tarun, a B.Tech CSE student at Chandigarh University, based in Punjab, India
 <tr>
 <td width="50%" valign="top">
 
-### Axeno
+### Tarun
 An AI automation agency building automations and AI agents for businesses.
 
 **Stack:** `n8n` `Claude API`
