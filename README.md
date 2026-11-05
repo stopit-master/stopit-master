@@ -1,107 +1,212 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7c3aed,50:3b82f6,100:14b8a6&text=Tarun&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Building+a+business&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="Tarun - Building a business" />
+```
+▄▀█ █▀▀ █▀ ▀█▀ █░█ █▀▀ ▀█▀ █ █▀▀   █▀▄ █▀█ █▀▀ ▄▀█ █▀▄▀█ █▀
+█▀█ ██▄ ▄█ ░█░ █▀█ ██▄ ░█░ █ █▄▄   █▄▀ █▀▄ ██▄ █▀█ █░▀░█ ▄█
+```
 
-<a href="https://github.com/stopit-master">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Building+a+business;AI+Automation+%C2%B7+AI+Agents+%C2%B7+AI+Agency;Python+%C2%B7+LLMs+%C2%B7+n8n+%C2%B7+Claude+API" alt="Typing animation" />
-</a>
-
-<br />
-
-<a href="https://github.com/stopit-master"><img src="https://img.shields.io/badge/GitHub-stopit--master-0d1117?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=5eead4" alt="Python" />
-<img src="https://img.shields.io/badge/AI%20Automation-0d1117?style=for-the-badge&logo=openai&logoColor=c4b5fd" alt="AI Automation" />
-<img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=probot&logoColor=5eead4" alt="AI Agents" />
-<img src="https://img.shields.io/badge/AI%20Agency-0d1117?style=for-the-badge&logo=rocket&logoColor=c4b5fd" alt="AI Agency" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=4"/>
 
 </div>
 
-<br />
-
-## About
-
-I'm Tarun, a B.Tech CSE student who is **building a business** around AI. I design automations and AI agents that take repetitive work off a team's plate and turn it into reliable, measurable systems.
-
-My focus is practical: find a real business problem, ship a working solution, then turn what repeats into a product.
-
-<br />
-
-## What I'm building
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Axeno
-An AI automation agency. The first product is a lead follow-up bot built with **n8n** and the **Claude API**, starting with real estate agents.
-
-</td>
-<td width="50%" valign="top">
-
-### Rydexa
-An AI-powered bike-sharing demand prediction platform.
-
-[View the repository](https://github.com/stopit-master/rydexa)
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Focus areas
-
-<details open>
-<summary><b>AI automation</b></summary>
-<br />
-
-Workflow automation with n8n and the Claude API: lead capture, follow-ups, and internal operations that run without manual effort.
-
-</details>
-
-<details>
-<summary><b>AI agents</b></summary>
-<br />
-
-Agentic systems that take actions, not only answer questions.
-
-</details>
-
-<details>
-<summary><b>AI agency</b></summary>
-<br />
-
-Taking client problems from idea to a deployed solution, and productizing the solutions that repeat.
-
-</details>
-
-<br />
-
-## Languages
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-70%25-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="Python 70%" />
-<img src="https://img.shields.io/badge/JavaScript-12%25-14b8a6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 12%" />
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-10%25-3b82f6?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook 10%" />
-<img src="https://img.shields.io/badge/CSS-8%25-0f766e?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 8%" />
+# ◉ Tarun singh  ◉
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=Code+.+Create+.+Innovate++.++;Available+for+Amazing+Opportunities" alt="Typing SVG" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=2"/>
+
+```
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+```
 
 </div>
 
-<br />
+## ◉ CURRENT.STATUS ◉
 
-## Contribution trail
+```ascii
+┌─────────────────────────────────────────────────┐
+│  > [Your bio]                                      │
+│  > Location: punjab, india                       │
+│  > Motto: "ai skills "                           │
+│  > Philosophy: win or die 
+           │
+└─────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
-![GitHub Snake Light](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake.svg#gh-light-mode-only)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake-dark.svg#gh-dark-mode-only)
+![Status](https://img.shields.io/badge/STATUS-student-FF00FF?style=flat-square&labelColor=000000&color=FF00FF)
+![Vibes](https://img.shields.io/badge/VIBES-Synthwave-00FFFF?style=flat-square&labelColor=000000&color=00FFFF)
+![Mode](https://img.shields.io/badge/MODE-Aesthetic-FF1493?style=flat-square&labelColor=000000&color=FF1493)
 
 </div>
 
-<br />
+## ◉ DIGITAL.ARSENAL ◉
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:14b8a6,50:3b82f6,100:7c3aed&animation=twinkling" width="100%" alt="" />
+
+```
+██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗███╗   ███╗██╗███╗   ██╗ ██████╗ 
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║████╗ ████║██║████╗  ██║██╔════╝ 
+██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║██╔████╔██║██║██╔██╗ ██║██║  ███╗
+██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║██║╚██╔╝██║██║██║╚██╗██║██║   ██║
+██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║██║ ╚████║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+```
+
+</div>
+
+### ▸ PRIMARY LANGUAGE
+```
+> python 
+```
+
+### ▸ FRONTEND STACK
+```
+> next.js
+```
+
+### ▸ BACKEND SYSTEMS  
+```
+> fastapi 
+```
+
+### ▸ DATABASE LAYER
+```
+> supabase,vercel
+```
+
+<div align="center">
+
+**◢◤ SKILL MATRIX ◢◤**
+
+python
+
+</div>
+
+## ◉ PROJECT.ARCHIVE ◉
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                           P R O J E C T S                            ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### ▸ rydexa
+```yaml
+Description: ai bike sharing demand pridiction 
+Repository: [Your project1Repo]
+Live Demo: https://rydexa.netlify.app/
+Status: ████████████████████████████████ 100% COMPLETE
+```
+
+### ▸ [Your project2Name]  
+```yaml
+Description: [Your project2Description]
+Repository: [Your project2Repo]
+Live Demo: [Your project2Link]
+Status: ████████████████████████████████ 100% COMPLETE
+```
+
+### ▸ [Your project3Name]
+```yaml
+Description: [Your project3Description]
+Repository: [Your project3Repo]
+Live Demo: [Your project3Link]
+Status: ████████████████████████████████ 100% COMPLETE
+```
+
+<div align="center">
+
+![Project Stats](https://github-readme-stats.vercel.app/api/pin/?username=stopit-master&repo=rydexa&theme=synthwave&hide_border=true)
+
+</div>
+
+## ◉ STATISTICS.LOG ◉
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stopit-master&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff&icon_color=ff1493" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stopit-master&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff1493&currStreakLabel=00ffff" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stopit-master&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff" alt="Top Languages" />
+
+</div>
+
+## ◉ CURRENT.OBJECTIVES ◉
+
+<div align="center">
+
+```
+┌─ LOADING OBJECTIVES ─────────────────────────────────┐
+│                                                      │
+│  ▸ Current Focus: ai agency                     │  
+│  ▸ Next Target: ai bussiness                          │
+│  ▸ Learning Path: ai bussiness building                 │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+![Current Goal](https://img.shields.io/badge/CURRENT_GOAL-ai agency -FF00FF?style=for-the-badge&labelColor=000000&color=FF00FF)
+![Next Goal](https://img.shields.io/badge/NEXT_TARGET-ai bussiness -00FFFF?style=for-the-badge&labelColor=000000&color=00FFFF)
+![Learning](https://img.shields.io/badge/LEARNING-ai bussiness building -FF1493?style=for-the-badge&labelColor=000000&color=FF1493)
+
+</div>
+
+## ◉ OFFLINE.ACTIVITIES ◉
+
+<div align="center">
+
+```
+╭─────────────────────────────────────────────────────╮
+│                   WHEN NOT CODING                   │
+├─────────────────────────────────────────────────────┤
+│  ▸ artificial intelligence                                     │
+│  ▸ data science                                     │
+╰─────────────────────────────────────────────────────╯
+```
+
+</div>
+
+## ◉ NETWORK.CONNECT ◉
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                         C O N N E C T I O N S                        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+[![Website](https://img.shields.io/badge/WEBSITE-[Your website]-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)]([Your website])
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)]([Your linkedin])
+[![Twitter](https://img.shields.io/badge/TWITTER-Follow-FF1493?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)]([Your twitter])
+[![Email](https://img.shields.io/badge/EMAIL-Contact-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:[Your email])
+
+</div>
+
+<div align="center">
+
+```
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+```
+
+**◉ VISITOR.COUNTER ◉**
+
+![Visitor Count](https://profile-counter.glitch.me/stopit-master/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=4"/>
+
+```
+▀█▀ █░█ ▄▀█ █▄░█ █▄▀ █▀   █▀▀ █▀█ █▀█   █░█ █ █▀ █ ▀█▀ █ █▄░█ █▀▀ ▄▄ ▄▄ ▄▄
+░█░ █▀█ █▀█ █░▀█ █░█ ▄█   █▀░ █▄█ █▀▄   ▀▄▀ █ ▄█ █ ░█░ █ █░▀█ █▄█ ░░ ░░ ░░
+```
+
 </div>
