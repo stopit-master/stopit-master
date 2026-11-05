@@ -67,9 +67,15 @@ An AI automation agency building automations and AI agents for businesses.
 
 ### Rydexa⚡
 An AI-powered bike-sharing demand prediction platform.
-
-[![Source Code](https://img.shields.io/badge/Source-Code-0d1117?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/stopit-master/rydexa)
-
+<p align="center">
+  <a href="https://rydexa.netlify.app/" style="display:inline-block;padding:9px 22px;border:1px solid #2563eb;border-radius:30px;background:#17243b;color:#ffffff;text-decoration:none;font-size:16px;font-weight:600;">
+    🌐 Explore Website
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/stopit-master/rydexa" style="display:inline-block;padding:9px 22px;border:1px solid #2563eb;border-radius:30px;background:#17243b;color:#ffffff;text-decoration:none;font-size:16px;font-weight:600;">
+    ⌘ Source Code
+  </a>
+</p>
 </td>
 </tr>
 </table>
