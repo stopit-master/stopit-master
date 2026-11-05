@@ -42,7 +42,7 @@ AI • Automation • Software Development • Open Source Tools • Emerging Te
 
 Probably exploring  new things, listening to music, or figuring out how to make life better. 😄
 
-**Let's connect, collaborate, and build something interesting!** 🌱
+**✨Let's connect, collaborate, and build something interesting!** 🌱
 
 
 <br />
@@ -57,7 +57,7 @@ Probably exploring  new things, listening to music, or figuring out how to make 
 <tr>
 <td width="50%" valign="top">
 
-### Tarun
+### Axeno✨
 An AI automation agency building automations and AI agents for businesses.
 
 **Stack:** `n8n` `Claude API`
@@ -65,7 +65,7 @@ An AI automation agency building automations and AI agents for businesses.
 </td>
 <td width="50%" valign="top">
 
-### Rydexa
+### Rydexa⚡
 An AI-powered bike-sharing demand prediction platform.
 
 [![Source Code](https://img.shields.io/badge/Source-Code-0d1117?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/stopit-master/rydexa)
