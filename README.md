@@ -16,6 +16,8 @@
 
 <div align="center">
 
+<img src="know-me (1).svg" width="25%" />
+
 ## ABOUT📚
 
 </div>
@@ -108,7 +110,7 @@ An AI-powered bike-sharing demand prediction platform.
 ![GitHub Snake Dark](https://raw.githubusercontent.com/stopit-master/stopit-master/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <br />
-
+<img src="devil.jpg" width="18%" />
 <img src="footer.svg" width="100%" alt="Thanks for visiting - github.com/stopit-master" />
 
 </div>
